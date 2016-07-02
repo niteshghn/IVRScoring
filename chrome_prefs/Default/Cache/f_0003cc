@@ -1,0 +1,2364 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="author" content="SemiColonWeb" />
+    
+	<!-- Stylesheets
+	============================================= -->
+	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="css/bootstrap.css" type="text/css" /><link rel="stylesheet" href="style.css" type="text/css" /><link rel="stylesheet" href="css/dark.css" type="text/css" /><link rel="stylesheet" href="css/font-icons.css" type="text/css" /><link rel="stylesheet" href="css/animate.css" type="text/css" /><link rel="stylesheet" href="css/magnific-popup.css" type="text/css" /><link rel="stylesheet" href="css/responsive.css" type="text/css" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	
+	<!-- External JavaScripts
+	============================================= -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/plugins.js"></script>
+
+	<!-- Document Title
+	============================================= -->
+	<title>
+	Public (Elections) Department, Tamil Nadu
+</title>
+</head>
+<body class="stretched">
+      <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987" />
+</div>
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
+
+		<!-- Header
+		============================================= -->
+		<header id="header" class="full-header">
+
+			<div id="header-wrap">
+
+				<div class="container clearfix">
+
+					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+					<!-- Logo
+					============================================= -->
+					<div id="logo">
+						<a href="index.aspx" class="standard-logo" title="Chief Electoral Officer,Tamil Nadu" data-dark-logo="images_N/logo-dark.png"><img src="images_N/logo.png" alt="Canvas Logo"/></a>
+						<a href="index.aspx" class="retina-logo" title="Chief Electoral Officer,Tamil Nadu" data-dark-logo="images_N/logo-dark@2x.png"><img src="images_N/logo@2x.png" alt="Canvas Logo"/></a>
+					</div><!-- #logo end -->
+
+					<!-- Primary Navigation
+					============================================= -->
+				<nav id="primary-menu">
+
+						<ul>
+							<li class="current"><a href="index.aspx" title="Home"><div>Home</div></a></li>
+							
+							<li class="mega-menu"><a href="Webforms/contactus.aspx" title="Contact Us"><div>Contact Us</div></a></li>
+                            <li class="mega-menu"><a href="VoterServices.aspx" title="Our Services"><div>Our Services</div></a></li>
+							<li class="mega-menu"><a href="Reports/NAMES%20OF%20CHIEF%20ELECTORAL%20OFFICERS%20OF%20TAMIL%20NADU.pdf" title="CEO's List" target="_blank"><div>Ceo's List</div></a></li>
+							<li class="mega-menu"><a href="Webforms/Vendorlogin.aspx" title="Vendor's Login"><div>Vendor's Login</div></a></li>
+                            <li class="mega-menu"><a href="Webforms/Officerslogin.aspx" title="Officer's Login"><div>Officer's Login</div></a></li>
+						</ul>
+
+						<!-- Top Search
+						============================================= -->
+						<div id="top-search">
+							<a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>							
+						</div><!-- #top-search end -->
+
+					</nav><!-- #primary-menu end -->
+
+				</div>
+
+			</div>
+
+		</header><!-- #header end -->
+
+		<!-- Page top bg  Title
+		============================================= -->
+		<section id="top-bg">
+
+			<div class="container clearfix center">
+		    <img src="images_N/tn-100-percent.png" alt="Chief Electoral Officer,Tamil Nadu"/> </div>
+
+		</section><!-- #page-top-bg-title end -->
+
+
+		<!-- Content
+		============================================= -->
+  <section id="content">
+  <div class="content-wrap">
+        
+    <div class="container clearfix" >
+                
+                
+
+					<!-- Sidebar
+					============================================= -->
+					<div class="sidebar nobottommargin clearfix">
+						<div class="sidebar-widgets-wrap">
+
+							<div class="widget clearfix">
+
+								<h4>Press Releases</h4>
+								<div id="post-list-footer">
+									<marquee behavior="scroll" scrollamount="5" direction="up" height="316" >
+									<div class="spost clearfix">
+										<div class="entry-image">
+											<a href="PressRelease/pr200416_197.pdf" class="nobg"><img src="images_N/small/1.jpg" alt=""/></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="PressRelease/pr200416_197.pdf">Violation of Election Rules - Flying Squad seized gold, liquor varieties and unaccounted cash</a></h4>
+											</div>
+											<ul class="entry-meta">
+												<li>20th April 2016</li>
+											</ul>
+										</div>
+									</div>
+
+									<div class="spost clearfix">
+										<div class="entry-image">
+											<a href="PressRelease/pr020416_t_183.pdf" class="nobg"><img src="images_N/small/2.jpg" alt=""/></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="PressRelease/pr020416_t_183.pdf">From the Chief Electoral Officer - specifications prescribed for submission of photograph of the candidates - Tamil Version</a></h4>
+											</div>
+											<ul class="entry-meta">
+												<li>20th April 2016</li>
+											</ul>
+										</div>
+									</div>
+
+									                                    
+                                    <div class="spost clearfix">
+										<div class="entry-image">
+											<a href="PressRelease/pr020416_e_183.pdf" class="nobg"><img src="images_N/small/3.jpg" alt=""/></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="PressRelease/pr020416_e_183.pdf">From the Chief Electoral Officer - specifications prescribed for submission of photograph of the candidates - English Version</a></h4>
+											</div>
+											<ul class="entry-meta">
+												<li>20th April 2016</li>
+											</ul>
+										</div>
+									</div>
+                                    
+                                    <div class="spost clearfix">
+										<div class="entry-image">
+											<a href="PressRelease/pr190416_195.pdf" class="nobg"><img src="images_N/small/3.jpg" alt=""/></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="PressRelease/pr190416_195.pdf">From the Chief Electoral Officer (Dt.19th April 2016)</a></h4>
+											</div>
+											<ul class="entry-meta">
+												<li>19th April 2016</li>
+											</ul>
+										</div>
+									</div>
+                                    
+                                    <div class="spost clearfix">
+										<div class="entry-image">
+											<a href="PressRelease/pr180416_194.pdf" class="nobg"><img src="images_N/small/3.jpg" alt=""/></a>
+										</div>
+										<div class="entry-c">
+											<div class="entry-title">
+												<h4><a href="PressRelease/pr180416_194.pdf">Violation of Election Rules - Flying Squad seized gold ornaments, Cigarettes and unaccounted cash</a></h4>
+											</div>
+											<ul class="entry-meta">
+												<li>18th April 2016</li>
+											</ul>
+										</div>
+									</div></marquee>
+								</div>
+							</div>
+
+							
+							
+
+							
+						</div>
+					</div><!-- .sidebar end -->
+
+					<!-- Post Content
+					============================================= -->
+					<div class="postcontent bothsidebar nobottommargin clearfix">
+                    <h4 class="highlight-me center">Recent Event in Pledge</h4>
+                    <section id="slider">
+					
+			       <div class="container clearfix">
+			        	<div class="fslider" data-easing="easeInQuad" data-thumbs="true" >
+							<div class="flexslider">
+							<div class="slider-wrap">
+                             <div class="slide">
+								<a href="#"><img src="Oathimage/1.png" style="width:854px !important;height:311px !important"/></a>
+							</div>
+                             <div class="slide">
+								<a href="#"><iframe width="854" height="480" src="https://www.youtube.com/embed/b8YQdHeezGw" frameborder="0" allowfullscreen></iframe></a>
+							</div>
+                                 <div class="slide">
+								<a href="#"><iframe width="854" height="480" src="https://www.youtube.com/embed/35bBNCPWIBc" frameborder="0" allowfullscreen></iframe></a>
+							</div>
+                            <div class="slide">
+								<a href="#"><img src="Oathimage/IMG_6853.jpg" style="width:854px !important;height:311px !important"/></a>
+							</div>
+                             <div class="slide">
+								<a href="#"><img src="Oathimage/IMG_6867.jpg" style="width:854px !important;height:311px !important"/></a>
+							</div>
+                             <div class="slide">
+								<a href="#"><img src="Oathimage/IMG_6874.jpg" style="width:854px !important;height:311px !important"/></a>
+							</div>
+                            <div class="slide">
+								<a href="#"><img src="Oathimage/635985019797385403.jpg" style="width:854px !important;height:311px !important"/></a>
+							</div>
+                                        
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_0" src="Oathimage/1.png" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_1" src="Oathimage/635984701470913595.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_2" src="Oathimage/635984849042523806.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_3" src="Oathimage/635984849251433635.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_4" src="Oathimage/635984849325590044.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_5" src="Oathimage/635984849459864298.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_6" src="Oathimage/635984849593152836.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_7" src="Oathimage/635984849619070968.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_8" src="Oathimage/635984849674767236.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_9" src="Oathimage/635984849704856055.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_10" src="Oathimage/635984849819523742.JPG" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_11" src="Oathimage/635984850166038654.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_12" src="Oathimage/635984850219181243.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_13" src="Oathimage/635984853184719181.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_14" src="Oathimage/635984853556998341.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_15" src="Oathimage/635984854813722977.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_16" src="Oathimage/635984854947262364.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_17" src="Oathimage/635984855544436653.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_18" src="Oathimage/635984855929527988.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_19" src="Oathimage/635984856269024774.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_20" src="Oathimage/635984856628421131.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_21" src="Oathimage/635984857141892084.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_22" src="Oathimage/635984857803002000.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_23" src="Oathimage/635984857818582607.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_24" src="Oathimage/635984858187375074.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_25" src="Oathimage/635984858490125976.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_26" src="Oathimage/635984858506416258.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_27" src="Oathimage/635984858774870063.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_28" src="Oathimage/635984858860677160.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_29" src="Oathimage/635984859193185691.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_30" src="Oathimage/635984860105769672.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_31" src="Oathimage/635984861264820980.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_32" src="Oathimage/635984861867399601.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_33" src="Oathimage/635984862208964757.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_34" src="Oathimage/635984862669421284.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_35" src="Oathimage/635984863252110434.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_36" src="Oathimage/635984863956076842.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_37" src="Oathimage/635984864260869961.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_38" src="Oathimage/635984864726391711.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_39" src="Oathimage/635984866188544531.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_40" src="Oathimage/635984867770351843.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_41" src="Oathimage/635984868865013950.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_42" src="Oathimage/635984869905722714.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_43" src="Oathimage/635984871375095517.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_44" src="Oathimage/635984871480545461.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_45" src="Oathimage/635984872469011998.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_46" src="Oathimage/635984873238972695.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_47" src="Oathimage/635984875044948937.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_48" src="Oathimage/635984875636616334.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_49" src="Oathimage/635984876725478079.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_50" src="Oathimage/635984879716213665.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_51" src="Oathimage/635984879936440078.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_52" src="Oathimage/635984881459006403.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_53" src="Oathimage/635984881826958306.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_54" src="Oathimage/635984881882057281.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_55" src="Oathimage/635984881932437110.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_56" src="Oathimage/635984882038985077.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_57" src="Oathimage/635984882183929383.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_58" src="Oathimage/635984882239519893.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_59" src="Oathimage/635984882483616282.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_60" src="Oathimage/635984882852615526.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_61" src="Oathimage/635984883294616852.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_62" src="Oathimage/635984884387230970.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_63" src="Oathimage/635984884499053022.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_64" src="Oathimage/635984884518904805.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_65" src="Oathimage/635984884533897904.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_66" src="Oathimage/635984884936255949.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_67" src="Oathimage/635984885424483277.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_68" src="Oathimage/635984885589236091.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_69" src="Oathimage/635984885601352311.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_70" src="Oathimage/635984886878505746.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_71" src="Oathimage/635984887425390372.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_72" src="Oathimage/635984888057806438.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_73" src="Oathimage/635984888253392767.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_74" src="Oathimage/635984888711289398.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_75" src="Oathimage/635984890012134859.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_76" src="Oathimage/635984890230510282.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_77" src="Oathimage/635984890309930546.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_78" src="Oathimage/635984890615582009.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_79" src="Oathimage/635984890726610035.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_80" src="Oathimage/635984892579817430.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_81" src="Oathimage/635984892787128367.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_82" src="Oathimage/635984892909980245.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_83" src="Oathimage/635984893252426624.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_84" src="Oathimage/635984893488693396.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_85" src="Oathimage/635984893494271623.jpeg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_86" src="Oathimage/635984894224955897.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_87" src="Oathimage/635984894806356701.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_88" src="Oathimage/635984895275286439.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_89" src="Oathimage/635984895701136617.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_90" src="Oathimage/635984896174895501.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_91" src="Oathimage/635984896474039268.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_92" src="Oathimage/635984898763189943.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_93" src="Oathimage/635984899474361164.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_94" src="Oathimage/635984899511381282.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_95" src="Oathimage/635984900314079888.jpeg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_96" src="Oathimage/635985019797385403.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_97" src="Oathimage/IMG_6853.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_98" src="Oathimage/IMG_6867.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <a href="#"><img id="ContentPlaceHolder1_Repeater1_Image1_99" src="Oathimage/IMG_6874.jpg" style="width:854px !important;height:311px !important" /></a>
+                                      </div>
+                               
+					    </div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div><!-- .postcontent end -->
+
+
+					<!-- Sidebar
+					============================================= -->
+					<div class="sidebar  col_last clearfix nobottommargin" style="margin-bottom:-20px;">
+						<div class="sidebar-widgets-wrap">
+						  <div class="widget clearfix">
+                          <h4>Recent poster</h4>
+                            <a href="Results.aspx" target="_blank"><img src="RightImage/IMG-20160518-WA0031.jpg"/></a>                            
+					      </div>
+						</div>
+				    </div>
+					</div><!-- .sidebar end -->
+                    
+                  <div class="container clearfix nobottommargin notopmargin" style="margin-top:-30px">
+                    <div class="col_three_fourth">
+						<div id="oc-clients" class="owl-carousel owl-carousel-full image-carousel" style="padding: 10px 0;">
+                                        
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/1.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/1.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/10.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/10.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/11.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/11.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/12.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/12.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/13.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/13.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/14.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/14.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/15.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/15.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/16.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/16.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/17.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/17.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/18.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/18.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/19.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/19.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/2.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/2.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/20.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/20.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/21.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/21.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/22.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/22.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/23.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/23.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/24.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/24.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/25.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/25.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/26.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/26.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/27.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/27.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/28.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/28.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/29.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/29.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/3.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/3.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/30.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/30.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/31.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/31.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/32.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/32.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/33.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/33.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/34.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/34.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/35.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/35.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/36.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/36.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/37.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/37.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/38.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/38.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/39.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/39.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/4.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/4.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/40.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/40.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/41.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/41.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/42.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/42.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/43.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/43.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/44.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/44.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/5.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/5.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/6.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/6.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/7.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/7.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/8.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/8.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/9.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/9.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/Home1.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/Home1.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                                           
+                                      <div class="slide">
+                                         <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='DAILY IMAGES/Home2.jpg' alt="banner 1" style="height:100px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='DAILY IMAGES/Home2.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+										
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                      </div>
+                               
+						                          
+
+					</div>
+
+					<script type="text/javascript">
+
+					    jQuery(document).ready(function ($) {
+
+					        var ocClients = $("#oc-clients");
+
+					        ocClients.owlCarousel({
+					            margin: 2,
+					            loop: true,
+					            nav: false,
+					            autoplay: false,
+					            dots: false,
+					            autoplayHoverPause: true,
+					            responsive: {
+					                0: { items: 2 },
+					                480: { items: 3 },
+					                768: { items: 4 },
+					                992: { items: 5 },
+					                1200: { items: 6 }
+					            }
+					        });
+
+					    });
+
+					</script>
+
+					</div>
+                    
+                        
+                    <div class="col_one_fourth col_last">
+                       <a href="Results.aspx" target="_blank"> <img src="RightImage/IMG-20160518-WA0034.jpg" title="One Day To GO" /></a>
+						
+                       
+					</div>
+                  
+                    </div>
+                        
+                    <section id="page-title" class="page-title-parallax nobottommargin" style="background-image: url('images_N/video-gallery.jpg'); padding: 120px 0;" data-stellar-background-ratio="0.3">
+        
+        				<div class="container  clearfix">
+                            <div class="heading-block center">
+                                <h3>Sveep Video </h3>                               
+                            </div>
+                        
+                        
+                        
+                        <div id="portfolio" class="portfolio-4 clearfix nobottommargin">
+
+							<article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="RegistrationVideo.aspx">
+										<iframe height="250" src="https://www.youtube.com/embed/a-fGPLEgp_4" frameborder="0" allowfullscreen></iframe>
+									</a>
+									<div class="portfolio-overlay">
+										<a href="RegistrationVideo.aspx" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									</div>
+								</div>
+								<div class="portfolio-desc center">
+									<h3 ><a href="RegistrationVideo.aspx" style="color:#fff;">Registration video</a></h3>
+									
+								</div>
+							</article>                            
+                            <article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="CitizenVideos.aspx">
+										<iframe height="250" src="https://www.youtube.com/embed/vyQW9ThWSgI" frameborder="0" allowfullscreen></iframe>
+									</a>
+									<div class="portfolio-overlay">
+										<a href="CitizenVideos.aspx" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									</div>
+								</div>
+								<div class="portfolio-desc center">
+									<h3 style="color:#fff;"><a href="CitizenVideos.aspx" style="color:#fff;">Citizen video </a></h3>
+									
+								</div>
+							</article>
+                            <article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="EthicalVideo.aspx">
+										<iframe height="250" src="https://www.youtube.com/embed/Xc4i8gTIAvs" frameborder="0" allowfullscreen></iframe>
+									</a>
+									<div class="portfolio-overlay">
+										<a href="EthicalVideo.aspx" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									</div>
+								</div>
+								<div class="portfolio-desc center">
+									<h3 style="color:#fff;"><a href="EthicalVideo.aspx" style="color:#fff;">Ethical Video</a></h3>
+									
+								</div>
+							</article>
+                            <article class="portfolio-item pf-media pf-icons">
+								<div class="portfolio-image">
+									<a href="SveepVideos.aspx">
+										<iframe height="250" src="https://www.youtube.com/embed/YB-ZAtQu8yE" frameborder="0" allowfullscreen></iframe>
+									</a>
+									<div class="portfolio-overlay">
+										<a href="SveepVideos.aspx" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+									</div>
+								</div>
+								<div class="portfolio-desc center">
+									<h3 style="color:#fff;"><a href="SveepVideos.aspx" style="color:#fff;">Training video</a></h3>									
+								</div>
+							</article>
+						
+                       </div>
+                        </div>
+                        
+                    </section>
+                    
+                    
+                    <div class="section" style="margin-top:2px !important"> <!-- .Banner Slider Start -->
+                    <div class="container clearfix">
+
+					
+					<div id="oc-portfolio" class="owl-carousel portfolio-carousel portfolio-nomargin">
+                                   
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/1.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/1.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/10.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/10.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/11.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/11.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/12.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/12.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/13.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/13.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/14.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/14.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/15.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/15.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/16.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/16.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/17.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/17.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/18.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/18.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/19.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/19.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/2.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/2.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/20.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/20.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/21.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/21.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/22.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/22.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/23.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/23.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/24.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/24.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/25.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/25.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/26.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/26.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/27.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/27.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/28.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/28.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/29.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/29.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/3.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/3.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/30.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/30.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/31.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/31.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/32.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/32.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/33.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/33.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/34.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/34.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/35.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/35.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/36.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/36.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/37.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/37.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/38.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/38.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/39.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/39.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/4.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/4.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/40.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/40.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/5.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/5.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/6.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/6.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/7.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/7.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/8.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/8.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                                           
+                                      <div class="oc-item">
+							<div class="iportfolio">
+								<div class="portfolio-image">
+									<a href="portfolio-single.html">
+										<img src='Twitter/9.jpg' alt="banner 1" style="height:250px !important; width:200px !important"/>
+									</a>
+									<div class="portfolio-overlay">
+										<a href='Twitter/9.jpg' class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+                               
+					</div>
+
+					<script type="text/javascript">
+
+					    jQuery(document).ready(function ($) {
+
+					        var ocPortfolio = $("#oc-portfolio");
+
+					        ocPortfolio.owlCarousel({
+					            margin: 1,
+					            autoplay: true,
+					            autoplayHoverPause: true,
+					            dots: false,
+					            nav: true,
+					            navText: ['<i class="icon-angle-left"></i>', '<i class="icon-angle-right"></i>'],
+					            responsive: {
+					                0: { items: 1 },
+					                600: { items: 2 },
+					                1000: { items: 3 },
+					                1200: { items: 4 }
+					            }
+					        });
+
+					    });
+
+					</script>
+
+				   </div>
+                </div><!-- .Banner Slider End -->
+                
+                
+                <div class=" topmargin-sm nobottommargin">
+
+					<div class="container clearfix">
+
+						<div class="heading-block center">
+							<h3>Our Services</h3>
+						</div>
+
+						<ul class="testimonials-grid grid-3 clearfix nobottommargin">
+							<li>
+                            <div style=" background-color:#05869c; ">
+								<div class="testimonial" >
+									
+									<div class="testi-content center">
+                                    <a href="VoterServices.aspx" target="_blank"><img src="images_N/icons/voter.png" alt="Customer Testimonails"/>
+                                    <h5>ELECTORAL SERVICES</h5></a>
+										
+									</div>
+								</div>
+                               </div>
+							</li>
+							<li>
+                            	<div style=" background-color:#ff6860">
+								<div class="testimonial">
+									<div class="testi-content center">
+                                    <a href="Elections.aspx" target="_blank">
+                                    <img src="images_N/icons/general-voting.png" alt="general-voting"/>
+										<h5>ELECTIONS</h5>
+                                        </a>
+										
+									</div>
+								</div>
+                               </div>
+							</li>
+							<li>
+                            <div style=" background-color:#4b6171">
+								<div class="testimonial">									
+									<div class="testi-content center">
+                                    <a href="Politicalparties.aspx" target="_blank"><img src="images_N/icons/political.png" alt="political"/>
+										<h5>POLITICAL PARTIES</h5></a>
+										
+									</div>
+								</div>
+                               </div>
+							</li>
+							<li>
+                            <div style="background-color:#8e2192">
+								<div class="testimonial">
+									
+									<div class="testi-content center">
+                                    <a href="Reports.aspx" target="_blank"><img src="images_N/icons/stat.png" alt="REPORTS & PUBLICATIONS"/>
+										<h5>REPORTS & PUBLICATIONS</h5></a>										
+									</div>
+								</div>
+                                </div>
+							</li>
+							<li>
+                            <div style=" background-color:#be1a48 ;">
+								<div class="testimonial">
+									
+									<div class="testi-content center">
+                                    <a href="Sveep.aspx" target="_blank"><img src="images_N/icons/sveep.png" alt="SVEEP"/>
+										<h5>SVEEP</h5>
+                                        </a>
+										
+									</div>
+								</div>
+                                </div>
+							</li>
+							<li>
+                            <div style=" background-color:#05869c">
+								<div class="testimonial">
+									<a href="Whatsnew.aspx" target="_blank">
+									<div class="testi-content center">
+										
+                                        <img src="images_N/icons/news-icon.png" alt="WHAT'S NEW"/>
+                                        <h5>WHAT'S NEW</h5>
+										
+									</div>
+                                    </a>
+								</div>
+                               </div>
+							</li>
+						</ul>
+
+					</div>
+
+				</div>
+
+                 
+                 
+                <div class="section topmargin-lg"> <!-- .icon Start -->
+                 <div class="container clearfix">
+
+					<div class="col_one_fourth nobottommargin">
+						<div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">
+							<div class="fbox-icon">
+								<a href="PressRelease.aspx" target="_blank"><i class="i-alt noborder icon-megaphone"></i></a>
+							</div>
+							<h3>Press Release</h3>
+						</div>
+					</div>
+
+					<div class="col_one_fourth nobottommargin">
+						<div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">
+							<div class="fbox-icon">
+								<a href="Officersapp.aspx" target="_blank"><i class="i-alt noborder icon-share"></i></a>
+							</div>
+							<h3>IT Applications for Officers</h3>
+						</div>
+					</div>
+
+					<div class="col_one_fourth nobottommargin">
+						<div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">
+							<div class="fbox-icon">
+								<a href="Complaints.aspx" target="_blank"><i class="i-alt noborder icon-share"></i></a>
+							</div>							
+							<h3>Complaints</h3>
+						</div>
+					</div>
+
+					<div class="col_one_fourth nobottommargin col_last">
+						<div class="feature-box fbox-center fbox-light fbox-effect nobottomborder">
+							<div class="fbox-icon">
+								<a href="Gallery.aspx"><i class="i-alt noborder icon-picture"></i></a>
+							</div>
+							<h3>Gallery</h3>
+						</div>
+					</div>
+                   </div> <!-- icon End --> 
+                       
+
+				</div>
+
+		<a class="button button-full center tright footer-stick">
+					<div class="container clearfix">
+						ONLINE registration facility will be opened shortly. <strong>Check Out</strong> <i class="icon-caret-right" style="top:4px;"></i>
+					</div>
+				</a>
+
+      </div>
+      </section>
+  <!-- Footer
+		============================================= -->
+		<footer id="footer" class="dark">
+
+		
+			<!-- Copyrights
+			============================================= -->
+			<div id="copyrights">
+
+				<div class="container clearfix">
+
+					<div class="col_half">
+						 © 2016 Public (Elections) Department, Tamil Nadu. All rights reserved.
+<br/>
+						<div class="copyright-links"><a href="#" title="Terms of Use">Terms of Use</a> / <a href="#" title="Privacy Policy">Privacy Policy</a></div>
+					</div>
+
+					<div class="col_half col_last tright">
+						<div class="fright clearfix">
+							<a href="https://m.facebook.com/TNElectionsCEO/" target="_blank" title="Facebook" class="social-icon si-small si-borderless si-facebook">
+								<i class="icon-facebook"></i>
+								<i class="icon-facebook"></i>
+							</a>
+
+							<a href="https://twitter.com/tnelectionsceo" target="_blank" title="Twitter" class="social-icon si-small si-borderless si-twitter">
+								<i class="icon-twitter"></i>
+								<i class="icon-twitter"></i>
+							</a>
+
+							<a href="https://plus.google.com/113269240563936716752" target="_blank" title="Google Plus" class="social-icon si-small si-borderless si-gplus">
+								<i class="icon-gplus"></i>
+								<i class="icon-gplus"></i>
+							</a>
+
+							<a href="#" class="social-icon si-small si-borderless si-pinterest">
+								<i class="icon-pinterest"></i>
+								<i class="icon-pinterest"></i>
+							</a>
+
+							<a href="#" class="social-icon si-small si-borderless si-vimeo">
+								<i class="icon-vimeo"></i>
+								<i class="icon-vimeo"></i>
+							</a>
+
+							<a href="#" class="social-icon si-small si-borderless si-github">
+								<i class="icon-github"></i>
+								<i class="icon-github"></i>
+							</a>
+
+							<a href="#" class="social-icon si-small si-borderless si-yahoo">
+								<i class="icon-yahoo"></i>
+								<i class="icon-yahoo"></i>
+							</a>
+
+							<a href="#" class="social-icon si-small si-borderless si-linkedin">
+								<i class="icon-linkedin"></i>
+								<i class="icon-linkedin"></i>
+							</a>
+						</div>
+
+						<div class="clear"></div>
+
+						
+					</div>
+
+				</div>
+
+			</div><!-- #copyrights end -->
+
+		</footer><!-- #footer end -->
+
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
+
+	<!-- Footer Scripts
+	============================================= -->
+	<script type="text/javascript" src="js/functions.js"></script>
+    </form>
+</body>
+</html>

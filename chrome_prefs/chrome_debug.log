@@ -1,0 +1,5 @@
+[16285:16285:0702/151849:WARNING:password_store_factory.cc(250)] Using basic (unencrypted) store for password storage. See https://chromium.googlesource.com/chromium/src/+/master/docs/linux_password_storage.md for more information about password storage options.
+[16350:16350:0702/151849:WARNING:ipc_message_attachment_set.cc(57)] MessageAttachmentSet destroyed with unconsumed descriptors: 0/1
+[16285:16285:0702/151910:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
+[16285:16285:0702/151910:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
+[16285:16285:0702/151910:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown printing.enabled
